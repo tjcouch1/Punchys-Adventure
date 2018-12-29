@@ -13,6 +13,6 @@ Sound effects created in either SFXR or BFXR.
 
 Created 11/19/16.
 
-![](https://github.com/tjcouch1/Punchys-Adventure/blob/master/punchysadventure.gif)
-
 Play it on [my website](https://www.tjcouch.xyz/punchy-s-adventure) or [itch.io](https://kanestaff.itch.io/punchys-adventure)!
+
+![](https://github.com/tjcouch1/Punchys-Adventure/blob/master/punchysadventure.gif)
